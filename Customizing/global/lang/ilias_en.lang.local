@@ -1,0 +1,7 @@
+<!-- language file start -->
+content#:#cont_cc_sub#:#Subscript
+content#:#cont_cc_sup#:#Superscript
+style#:#sty_type_sub#:#Subscript
+style#:#sty_type_sup#:#Superscript
+content#:#cont_text_sub#:#Subscript
+content#:#cont_text_sup#:#Superscript
